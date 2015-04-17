@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/matmuchrapna/ispeakweb"
   },
+  "scripts": {
+    "postpublish": "git push --follow-tags"
+  },
   "keywords": [
     "collective",
     "twitter",
