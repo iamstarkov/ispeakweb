@@ -6,4 +6,4 @@
 * [ ] Why should I become an author? _potential author, who get invitation_
 * [ ] How to become an author? How to propose somebody as an author? _loyal user or author_
 * [ ] What should I know before starting my week? _loyal author_
-* [ ] README also should have Code of Conduct
+* [x] README also should have Code of Conduct
