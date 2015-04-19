@@ -1,7 +1,7 @@
 {
   "name": "ispeakweb",
   "version": "0.1.0",
-  "description": "Entirely new way to discover things and connect to people",
+  "description": "Collective twitter account for frontend developers with new author every week",
   "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

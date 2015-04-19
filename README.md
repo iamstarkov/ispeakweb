@@ -1,10 +1,6 @@
 # ispeakweb
 
-> Entirely new way to discover things and connect to people
-
-Basically [_ispeakweb_][isw] is an collective twitter account with new author
-every week.
-
+> Collective twitter account for frontend developers with new author every week
 
 ## Why should I care?
 
