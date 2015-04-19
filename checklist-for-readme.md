@@ -1,6 +1,6 @@
 # Checklist for README
 
-* [ ] Motto should have one one sentence.
+* [x] Motto should have one one sentence
 * [ ] What the fuck is this? _usual user_
 * [ ] Why should I follow you? _usual user_
 * [ ] Why should I become an author? _potential author, who get invitation_
