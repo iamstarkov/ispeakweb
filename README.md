@@ -33,4 +33,13 @@ with them. Done.
 Since we have not start now, we have no these pages, but I will create
 and maintain them for you.
 
+
+## Code of Conduct for authors
+
+Be kind to everyone. Do not insult or put down others. Behave professionally.
+Remember that harassment and sexist, racist, or exclusionary jokes
+are not appropriate for [@ispeakweb][isw]. I will ask to leave authors,
+who violating these rules.
+
+
 [isw]: https://twitter.com/ispeakweb
