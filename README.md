@@ -2,6 +2,7 @@
 
 > Collective twitter account for frontend developers with new author every week
 
+It’s an interesting Reddit AMA analog, but in twitter and obviously with changes. It’s an ability to read and discuss something valuable or meaningfull for weekly changing autorhs.
 
 ## Why should I care?
 
