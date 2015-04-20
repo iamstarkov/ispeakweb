@@ -29,7 +29,7 @@ Since we have not start now, we have no these pages, but I will create
 and maintain them for you.
 
 
-## Code of Conduct for authors
+## Code of Conduct
 
 Be kind to everyone. Do not insult or put down others. Behave professionally.
 Remember that harassment and sexist, racist, or exclusionary jokes
