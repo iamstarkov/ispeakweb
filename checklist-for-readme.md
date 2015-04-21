@@ -6,7 +6,7 @@
 * [x] How it works? _usual user_
 * [x] Why should I become an author? _potential author, who get invitation_
 * [x] How to become an author? How to propose somebody as an author? _loyal user or author_
-* [ ] What should I know before starting my week? _loyal author_
+* [x] What should I know before starting my week? _loyal author_
 
 
 ## General checks
