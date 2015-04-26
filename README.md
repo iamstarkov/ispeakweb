@@ -7,7 +7,6 @@ It’s an interesting Reddit AMA analog, but in twitter and obviously with
 changes. It’s an ability to read and discuss something valuable or meaningful
 with weekly changing authors.
 
-
 ## Why should I care? Why should I follow you?
 
 — You shouldn’t. Otherwise, you will have huge amount of pros:
@@ -26,7 +25,6 @@ with weekly changing authors.
 
 Feel free to follow [@ispeakweb][isw] on twitter.
 
-
 ## How it works?
 
 — I’m carefully picking up new authors weekly, you’re reading and interacting
@@ -34,17 +32,14 @@ with them. Done.
 
 PS. Currently it’s not working, because we have not started yet.
 
-
 ## My responsibilities as a host
 
-I promise, that I will pick up new authors carefully, but nobody can say
-how it will going in real life with every author. Shit happens, you know.
-
+I promise, that I will pick up new authors carefully, but nobody can say for sure
+how it will be going in real life with every author. Shit happens, you know.
 
 ## Show me more!
 
 — _ispeakweb_ will have statistics page and summary pages per each author
-
 
 ## Why should I become an author?
 
@@ -61,7 +56,6 @@ how it will going in real life with every author. Shit happens, you know.
   in your private twitter, but here is a proper place for such things
 * it's just an honor
 * it’s fun at least
-
 
 ###  What should I know before starting my week?
 
@@ -130,7 +124,6 @@ somebody to be an author.
 
 — Have respect to your followers
 
-
 ## Code of Conduct
 
 Be kind to everyone. Do not insult or put down others. Behave professionally.
@@ -138,12 +131,10 @@ Remember that harassment and sexist, racist, or exclusionary jokes
 are not appropriate for [@ispeakweb][isw]. Please, [email me
 asap][coc-violations] if you spotted any CoC violations.
 
-
 ## Postscript
 
 I hope this account will help frontend developers to know each other and
 link together different geo-, framework-, language-based communities.
-
 
 ## License
 
