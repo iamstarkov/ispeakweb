@@ -5,7 +5,7 @@ week
 
 It’s an interesting Reddit AMA analog, but in twitter and obviously with
 changes. It’s an ability to read and discuss something valuable or meaningful
-for weekly changing authors.
+with weekly changing authors.
 
 
 ## Why should I care? Why should I follow you?
