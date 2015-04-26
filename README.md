@@ -98,10 +98,10 @@ You don’t need to feed the trolls.
 * how do you make interviews?
 * what do you think about opensource?
 * list developers, you are inspired of.
-* list developers, valuable for you (co-workers, great mentors or blogger)
+* list developers, valuable for you (co-workers, great mentors or bloggers)
 * tell us about your projects
 * try to predict future of frontend in 5 years.
-* tell us your worklace and/or health-related topics
+* tell us your workplace and/or health-related topics
 * tell us about your work setup: equipment, programs, .dotfiles and other
 * what’s the most interesting technical challenge you’ve worked?
 * how did you get started in Computer Science?
