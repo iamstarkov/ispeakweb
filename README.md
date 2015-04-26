@@ -59,7 +59,7 @@ how it will be going in real life with every author. Shit happens, you know.
 
 ###  What should I know before starting my week?
 
-#### Is there any general recommendations?
+#### Are there any general recommendations?
 
 — Yeah, we have them:
 
@@ -68,18 +68,18 @@ how it will be going in real life with every author. Shit happens, you know.
   Verify, that description contain link to your own account
 2. Say hello and introduce yourself briefly in a couple of tweets at the
   beginning
-3 Tell followers in a tweet about your plans for the week
+3. Tell followers in a tweet about your plans for the week
 4. If it possible, please do it in a five minutes, to be sure that your "intro"
   tweets will be grouped in timeline
-5. If you answer to question-mention, retweet an question
-6. Then write answers as ordinary tweets. If you want, you can include mention’s
-  author at the end of you answers
+5. If you want to answer, retweet the question first.
+6. Then write answers as ordinary tweets. If you want, you can include question’s
+  author at the end of you answers.
 7. Say goodbye and show your appreciation to followers, at the end
 
 #### Should I have a plan for week?
 
 — Tl;DR: Yes. Experience leads us to conclude that to have a plan is better
-than not to have. Basically, you don’t need to plan itself — you need
+than not to have. Basically, you don’t need a plan itself — you need
 a list of topics you want to discuss. Planning have great positive impact
 on followers and authors itself.
 
@@ -89,7 +89,7 @@ on followers and authors itself.
 of @ispeakweb’s idea. Also replying is easier, then writing original tweets.
 You don’t need to feed the trolls.
 
-#### Is there any popular topics I can discuss with my followers?
+#### Are there any popular topics I can discuss with my followers?
 
 — You probably can talk about something from this list:
 
