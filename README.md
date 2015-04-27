@@ -34,12 +34,12 @@ PS. Currently it’s not working, because we have not started yet.
 
 ## My responsibilities as a host
 
-I promise, that I will pick up new authors carefully, but nobody can say for sure
+I promise, that I will choose new authors carefully, but nobody can say for sure
 how it will be going in real life with every author. Shit happens, you know.
 
 ## Show me more!
 
-— _ispeakweb_ will have statistics page and summary pages per each author
+— _ispeakweb_ will have statistics page and summary pages per each author.
 
 ## Why should I become an author?
 
@@ -71,9 +71,9 @@ how it will be going in real life with every author. Shit happens, you know.
 3. Tell followers in a tweet about your plans for the week
 4. If it possible, please do it in a five minutes, to be sure that your "intro"
   tweets will be grouped in timeline
-5. If you want to answer, retweet the question first.
+5. If you want to answer, retweet the question first
 6. Then write answers as ordinary tweets. If you want, you can include question’s
-  author at the end of you answers.
+  author at the end of you answers
 7. Say goodbye and show your appreciation to followers, at the end
 
 #### Should I have a plan for week?
@@ -87,7 +87,7 @@ on followers and authors itself.
 
 — Probably, but communication is the most important and interesting part
 of @ispeakweb’s idea. Also replying is easier, then writing original tweets.
-You don’t need to feed the trolls.
+And you don’t need to feed the trolls.
 
 #### Are there any popular topics I can discuss with my followers?
 
