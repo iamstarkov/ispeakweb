@@ -29,10 +29,9 @@ Feel free to follow [@ispeakweb][isw] on twitter.
 
 ## How it works?
 
-— I’m carefully picking up new authors weekly, you’re reading and interacting
-with them. Done.
+— I carefully pick up new authors weekly, you read and interact with them. Done.
 
-PS. Currently it’s not working, because we have not started yet.
+PS. I’m starting the project in several weeks.
 
 ## My responsibilities as a host
 
