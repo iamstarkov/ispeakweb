@@ -11,19 +11,18 @@ or controversial issues with weekly changing authors.
 
 — You shouldn’t. Otherwise, you will get a huge amount of pros:
 
-* critical thinking: every author is unique, that’s why the views you
+* Critical thinking: every author is unique, that’s why the views you
   will find can be quintessentially different
-* comfort zone: ispeakweb will make you step out of your comfort zone
+* Comfort zone: ispeakweb will make you step out of your comfort zone
   in some cases
-* new: you will discover new trends, things and people
-* "shuffle mode": it’s like a random song on the radio, you can definitely
+* New: you will discover new trends, things and people
+* "Shuffle mode": it’s like a random song on the radio, you can definitely
   find something, which you most likely would never have found
-* experience: authors can share their experience gained over the years
-* mind shift: authors can show professional insights and new approaches
+* Experience: authors can share their experience gained over the years
+* Mind shift: authors can show professional insights and new approaches
   that dramatically differ from yours
-* it's a platform for two way communication where you can easily contact
-  the author
-* it’s fun
+* You can easily contact the author, ’cause it is two way communication channel
+* It’s fun
 
 Feel free to follow [@ispeakweb][isw] on twitter.
 
@@ -55,85 +54,80 @@ how it will be going in real life with every author. Things do happen, you know.
 
 #### Are there any general recommendations?
 
-— Yeah, we have them:
+— Yeah, here they are:
 
-0. Please be polite
-1. At the start, update description, avatar, location and background-image.
-  Verify, that description contain link to your own account
-2. Say hello and introduce yourself briefly in a couple of tweets at the
-  beginning
-3. Tell followers in a tweet about your plans for the week
-4. If it possible, please do it in a five minutes, to be sure that your "intro"
-  tweets will be grouped in timeline
-5. If you want to answer, retweet the question first
-6. Then write answers as ordinary tweets. If you want, you can include question’s
-  author at the end of you answers
-7. Say goodbye and show your appreciation to followers, at the end
+1. To begin with, update the bio, avatar, location and background image. Make
+   sure that description contains link to your own account
+2. Say hello and introduce yourself briefly in a couple of tweets
+   at the beginning
+3. Specify your plans for the week in one tweet
+4. If it’s possible, make all mentioned above in five minutes to be sure that
+   your "intro" tweets will be grouped in timeline
+5. If you want to answer, retweet the question first. Then write answers
+   as ordinary tweets. If you want, you can include question’s author
+   at the end of you answers
+6. Say goodbye and show your appreciation to followers at the end
 
-#### Should I have a plan for week?
+#### Should I have a plan for my week?
 
-— Tl;DR: Yes. Experience leads us to conclude that to have a plan is better
-than not to have. Basically, you don’t need a plan itself — you need
+— Tl;DR: You should. Experience leads us to conclude that having a plan is better
+than not having it. Basically, you don’t need a plan itself — you need
 a list of topics you want to discuss. Planning have great positive impact
 on followers and authors itself.
 
-#### Will I be annoyed by replying? Will it waste my time?
+#### Will I be annoyed by replying? Isn’t it waste of time?
 
-— Probably, but communication is the most important and interesting part
-of @ispeakweb’s idea. Also replying is easier, then writing original tweets.
+— In some cases, but communication is the most important and interesting part
+of @ispeakweb’s idea. Also, replying is easier than writing original tweets.
 And you don’t need to feed the trolls.
 
 #### Are there any popular topics I can discuss with my followers?
 
-— You probably can talk about something from this list:
+— You probably can discuss something from the list:
 
-* how would you rate other developers? _github, stackoverflow_
-* how would you rate or review sites?
-* how do you make interviews?
-* what do you think about opensource?
-* list developers, you are inspired of.
-* list developers, valuable for you (co-workers, great mentors or bloggers)
-* tell us about your projects
-* try to predict future of frontend in 5 years.
-* tell us your workplace and/or health-related topics
-* tell us about your work setup: equipment, programs, .dotfiles and other
-* what’s the most interesting technical challenge you’ve worked?
-* how did you get started in Computer Science?
-* what was your path to your current position in your carreer?
-* what do you want to work on next?
-* what is your favorite core value, and how do you live it?
-* what’s your favorite experience?
-* what is legacy know and what is good enough to be in future?
-* how do you see you own purpose as a front-end developer in the overall
-  picture of the world?
-* what do you think about work-life balance?
-* what do you think higher education, self-education and online education?
+* Ways to rate other developers (github, stackoverflow etc.)
+* Rating and reviewing sites
+* Making interviews
+* Your attitude to opensource
+* Developers, you are inspired of or valuable for you (co-workers,
+  great mentors or bloggers)
+* Your projects
+* Forecast frontend trends in 5 years.
+* Your workplace and/or health-related topics
+* Your work setup: equipment, programs, .dotfiles and other
+* Your most interesting technical challenges
+* Your start in Computer Science
+* Your career path and current position
+* Your professional and common plans for future
+* Favorite core value and the way you live it
+* Your favorite professional experience
+* Work-life balance
+* Higher education, self-education and online education
+* Your contribution and responsibility as a web developer in the overall
+  picture of the world
 
-#### How make a proposal?
+#### How to make a proposal?
 
-— [Email me][proposal] if you decided to become an author or want to propose
-somebody to be an author.
-
-#### What you can advise?
-
-— Have respect to your followers
+— [Email me][proposal] if you’re willing to lead [@ispeakweb][isw] for one week
+or want to suggest somebody else.
 
 ## Code of Conduct
 
-Be kind to everyone. Do not insult or put down others. Behave professionally.
-Remember that harassment and sexist, racist, or exclusionary jokes
-are not appropriate for [@ispeakweb][isw]. Please, [email me
-asap][coc-violations] if you spotted any CoC violations.
+Please, be polite and have respect to your followers. Do not insult
+or put down others. Behave professionally. Harassment and sexist, racist,
+or exclusionary jokes are not appropriate for [@ispeakweb][isw].
+
+[Email me asap][coc-violations] if you’ve spotted any CoC violations.
 
 ## Postscript
 
-I hope this account will help frontend developers to know each other and
-link together different geo-, framework-, language-based communities.
+I hope this account will help frontend developers to know each other and link
+together in different geo-, framework-, language-based communities.
 
 ## License
 
 MIT © [Vladimir Starkov](http://vstarkov.com)
 
 [isw]: https://twitter.com/ispeakweb
-[proposal]: mailto:matmuchrapna@gmail.com?subject=Author’s%20proposal%20for%20@ispeakweb
-[coc-violations]: mailto:matmuchrapna@gmail.com?subject=CoC%20violations%20in%20@ispeakweb
+[proposal]: mailto:iamstarkov@gmail.com?subject=Author’s%20proposal%20for%20@ispeakweb
+[coc-violations]: mailto:iamstarkov@gmail.com?subject=CoC%20violations%20in%20@ispeakweb
