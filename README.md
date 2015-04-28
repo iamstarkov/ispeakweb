@@ -27,7 +27,7 @@ or controversial issues with weekly changing authors.
 
 Feel free to follow [@ispeakweb][isw] on twitter.
 
-## How does it work?
+## How it works?
 
 — I carefully pick up new authors weekly, you read and interact with them. Done.
 
