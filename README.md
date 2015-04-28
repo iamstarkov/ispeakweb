@@ -9,18 +9,20 @@ or controversial issues with weekly changing authors.
 
 ## Why should I care? Why should I follow you?
 
-— You shouldn’t. Otherwise, you will have huge amount of pros:
+— You shouldn’t. Otherwise, you will get a huge amount of pros:
 
-* critical thinking: every author is unique, that’s why authors’ views
-  can be contradistinguish to each other
-* comfort zone: ispeakweb will get you out from your comfort zone on occasion
+* critical thinking: every author is unique, that’s why the views you
+  will find can be quintessentially different
+* comfort zone: ispeakweb will make you step out of your comfort zone
+  in some cases
 * new: you will discover new trends, things and people
-* "shuffle mode": it’s like random song on the radio, you will read something,
-  which potentially you will never read.
-* experience: sometimes authors will share their experience earned over
-  the years
-* point of view switching: author will tell you something about work,
-  experience and profession itself, from his point of view.
+* "shuffle mode": it’s like a random song on the radio, you can definitely
+  find something, which you most likely would never have found
+* experience: authors can share their experience gained over the years
+* mind shift: authors can show professional insights and new approaches
+  that dramatically differ from yours
+* it's a platform for two way communication where you can easily contact
+  the author
 * it’s fun
 
 Feel free to follow [@ispeakweb][isw] on twitter.
