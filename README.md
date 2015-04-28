@@ -29,14 +29,10 @@ Feel free to follow [@ispeakweb][isw] on twitter.
 
 ## How it works?
 
-— I carefully pick up new authors weekly, you read and interact with them. Done.
-
-PS. I’m starting the project in several weeks.
-
-## My responsibilities as a host
+— New interesting authors weekly, you read and interact with them.
 
 I promise, that I will choose new authors carefully, but nobody can say for sure
-how it will be going in real life with every author. Shit happens, you know.
+how it will be going in real life with every author. Things do happen, you know.
 
 ## Show me more!
 
