@@ -36,7 +36,7 @@ how it will be going in real life with every author. Things do happen, you know.
 
 ## Show me more!
 
-— _ispeakweb_ will have statistics page and summary pages per each author.
+— _ispeakweb_ will have a statistics page and summary pages for each author.
 
 ## Why should I become an author?
 
