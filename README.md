@@ -38,21 +38,18 @@ how it will be going in real life with every author. Things do happen, you know.
 
 — _ispeakweb_ will have a statistics page and summary pages for each author.
 
-## Why should I become an author?
+## What will I get as an author?
 
-* pr: you will get more followers from your target audience
-* you can test your ideas
-* you can test your experience, maybe somebody is more experienced then
-  you in some path.
-* it’s similar to a talk on a conference. But with significant differences:
-  more broaden audience and it lasts the whole week!
-* you will meet new active and interesting people
-* it’s significant experience
-* it’s not your private twitter! you are having fewer restrictions
-* people may feel embarrassed to ask you technical and common questions
-  in your private twitter, but here is a proper place for such things
-* it's just an honor
-* it’s fun at least
+* New followers from your target audience
+* Test your ideas: get response from numerous followers
+* Test your experience, get advice from somebody more experienced than you
+* New people and catchy ideas
+* Exciting and completely new experience
+* Fewer restrictions as it’s not your private twitter!
+* Receive technical and common questions which you would never receive
+  in your private twitter.
+* It's just an honor
+* And fun
 
 ###  What should I know before starting my week?
 
