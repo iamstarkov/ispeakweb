@@ -1,6 +1,6 @@
 {
   "name": "ispeakweb",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Collective twitter account for frontend developers with a new author every week",
   "main": "README.md",
   "scripts": {
