@@ -1,14 +1,14 @@
 {
   "name": "ispeakweb",
   "version": "0.3.0",
-  "description": "Collective twitter account for frontend developers with new author every week",
+  "description": "Collective twitter account for frontend developers with a new author every week",
   "main": "README.md",
   "scripts": {
     "postpublish": "git push --follow-tags"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/matmuchrapna/ispeakweb"
+    "url": "https://github.com/iamstarkov/ispeakweb"
   },
   "keywords": [
     "collective",
@@ -16,10 +16,10 @@
     "experiment",
     "social"
   ],
-  "author": "Vladimir Starkov <matmuchrapna@gmail.com> (http://vstarkov.com/)",
+  "author": "Vladimir Starkov <iamstarkov@gmail.com> (http://iamstarkov.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/matmuchrapna/ispeakweb/issues"
+    "url": "https://github.com/iamstarkov/ispeakweb/issues"
   },
-  "homepage": "https://github.com/matmuchrapna/ispeakweb"
+  "homepage": "https://twitter.com/ispeakweb"
 }
