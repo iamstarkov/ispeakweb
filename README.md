@@ -17,7 +17,7 @@ and significant on the other side issues with weekly changing authors.
   in some cases
 * New: you will discover new trends, things and people
 * "Shuffle mode": it’s like a random song on the radio, you can definitely
-  find something, which you most likely would never have found
+  find something interesting for you, which you most likely would never have found
 * Experience: authors can share their experience gained over the years
 * Mind shift: authors can show professional insights and new approaches
   that dramatically differ from yours
