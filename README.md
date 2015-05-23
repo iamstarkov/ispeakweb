@@ -43,7 +43,7 @@ how it will be going in real life with every author. Things do happen, you know.
 * Fewer restrictions as it’s not your private twitter!
 * Receive technical and common questions which you would never receive
   in your private twitter.
-* It's just an honor
+* It's just an honor and challenge for authors
 * And fun
 
 ###  What should I know before starting my week?
