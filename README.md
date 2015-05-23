@@ -55,7 +55,6 @@ how it will be going in real life with every author. Things do happen, you know.
 1. To begin with, update the bio, avatar, location and background image. Make
    sure that description contains link to your own account
 2. Say hello and introduce yourself briefly in a couple of tweets
-   at the beginning
 3. Specify your plans for the week in one tweet
 4. If it’s possible, make all mentioned above in five minutes to be sure that
    your "intro" tweets will be grouped in timeline
