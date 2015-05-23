@@ -91,10 +91,10 @@ And you don’t need to feed the trolls.
 * Your workplace and/or health-related topics
 * Your work setup: equipment, programs, .dotfiles and other
 * Your most interesting technical challenges
-* Your start in Computer Science
+* Your start in IT
 * Your career path and current position
 * Your professional and common plans for future
-* Favorite core value and the way you live it
+* Favorite core values and the way you live it
 * Your favorite professional experience
 * Work-life balance
 * Higher education, self-education and online education
