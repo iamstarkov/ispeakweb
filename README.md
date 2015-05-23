@@ -28,7 +28,7 @@ Feel free to follow [@ispeakweb][isw] on twitter.
 
 ## How it works?
 
-— New interesting authors weekly, you read and interact with them.
+— Every week Newinteresting author are telling smth and followers are reading read and discuss it.
 
 I promise, that I will choose new authors carefully, but nobody can say for sure
 how it will be going in real life with every author. Things do happen, you know.
