@@ -33,10 +33,6 @@ Feel free to follow [@ispeakweb][isw] on twitter.
 I promise, that I will choose new authors carefully, but nobody can say for sure
 how it will be going in real life with every author. Things do happen, you know.
 
-## Show me more!
-
-— _ispeakweb_ will have a statistics page and summary pages for each author.
-
 ## What will I get as an author?
 
 * New followers from your target audience
