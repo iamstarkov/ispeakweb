@@ -7,7 +7,7 @@ It’s an interesting Reddit AMA analog, but in twitter and obviously with
 new functions. It’s an ability to read and discuss controversial at one side
 and significant on the other side issues with weekly changing authors.
 
-## Why should I care? Why should I follow you?
+## Why should I follow you?
 
 — You shouldn’t. Otherwise, you will get a huge amount of pros:
 
