@@ -1,7 +1,7 @@
 # ispeakweb
 
-> Collective twitter account for frontend developers with a new author
-every week
+Collective twitter account for frontend developers with a new author
+every week.
 
 It’s an interesting Reddit AMA analog, but in twitter and obviously with
 new functions. It’s an ability to read and discuss controversial at one side
