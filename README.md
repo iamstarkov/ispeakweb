@@ -1,5 +1,7 @@
 # ispeakweb
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/iamstarkov/ispeakweb.svg)](https://greenkeeper.io/)
+
 Collective twitter account for frontend developers with a new author
 every week.
 
